@@ -29,8 +29,7 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
 - Problem-solving:
   - Analytical skills
   - Troubleshooting
-  - Effective solutions
-
+  
 - Communication and Collaboration:
   - Technical and non-technical communication
   - Collaboration in team environments
