@@ -12,7 +12,6 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
   - Security assessments
   - Incident response
   - Vulnerability analysis
-  - Network security
 
 - Linux:
   - Command line tools
