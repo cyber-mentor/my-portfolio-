@@ -19,12 +19,12 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
 - SQL:
   - Complex query writing
   - Relational database design
-  - 
+  
  - Automation:
   - Scripting languages
   - Process streamlining
   - Security enhancement
-  - 
+  
 - Problem-solving:
   - Analytical skills
   - Troubleshooting
