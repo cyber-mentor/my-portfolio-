@@ -15,23 +15,17 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
   - Network security
 
 - Linux:
-  - Advanced Linux knowledge
   - Command line tools
   - Shell scripting
-  - Network security
-
 - SQL:
   - Complex query writing
-  - Database optimization
   - Relational database design
-  - Data security
-
-- Automation:
+  - 
+ - Automation:
   - Scripting languages
-  - Automation tools
   - Process streamlining
   - Security enhancement
-
+  - 
 - Problem-solving:
   - Analytical skills
   - Troubleshooting
