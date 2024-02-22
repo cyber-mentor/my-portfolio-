@@ -41,11 +41,19 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
   - Technical and non-technical communication
   - Collaboration in team environments
 ## Experience
-- Cyber Analyst Intern, Company A (Month Year - Month Year)
-  - Assisted in performing security assessments, conducting penetration testing, and analyzing vulnerabilities. Collaborated with the team to develop and implement effective security controls.
-- Security Operations Analyst, Company B (Month Year - Present)
-  - Conduct ongoing monitoring of security events, investigate incidents, and coordinate incident response activities. Develop and maintain security incident response playbooks and automate routine tasks.
+- Software Engineer at MegTools
+  - Developed and maintained software solutions primarily using Python
+  - Conducted rigorous testing and debugging to ensure software quality
 
+- Sales Representative at MegTools
+  - Demonstrated strong sales skills to effectively promote and sell products
+  - Built and maintained client relationships to meet sales targets
+
+- Cyber Analyst Projects
+  - Utilized Python for security assessments, penetration testing, and vulnerability analysis
+  - Implemented effective security controls to ensure robust protection
+  - Conducted incident response and coordinated remediation activities
+    
 ## Certifications
 certificate list click here =>
 
