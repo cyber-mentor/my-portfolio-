@@ -1,0 +1,14 @@
+Project Description:
+As a cybersecurity analyst, I conducted a Network Traffic Analysis project to investigate connectivity issues with the DNS server for the domain yummyrecipesforme.com. The goal was to identify the cause of the problem and restore access to the website for customers.
+
+Tools:
+- Tcpdump for packet sniffing and capturing network traffic.
+
+Steps:
+1. Received customer reports of "destination port unreachable" error for yummyrecipesforme.com.
+2. Analyzed network traffic using Tcpdump.
+3. Identified DNS port 53 as unreachable, indicating a DNS server issue.
+4. Investigated if DNS server was down or if firewall blocked port 53 traffic.
+5. Explored causes like Denial of Service attack or DNS misconfiguration.
+6. Provided recommendations for remediation and website access restoration.
+

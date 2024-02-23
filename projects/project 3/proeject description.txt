@@ -1,0 +1,13 @@
+Project Description:
+As a cybersecurity analyst, I conducted a network attack analysis project to investigate a website malfunction. The goal was to identify the type of attack causing the network interruption and provide insights into its impact.
+
+Tools:
+- Log analysis tools
+- Network monitoring tools
+
+Steps:
+Steps:
+1. Observed connection timeout error on the website, indicating a possible network attack.
+2. Analyzed server logs and identified SYN flooding attack based on overload of SYN packet requests.
+3. Explained the impact: server resources overwhelmed, causing connection timeouts for legitimate visitors.
+4. Provided insights for further investigation and mitigation.
