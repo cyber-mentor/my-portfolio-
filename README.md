@@ -48,6 +48,7 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
 
 ## resume
 
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/myresume.pdf" target="_blank">My Resume</a>
 
 ## Education
 - Bachelor's Degree in Software engineering,Gollis University  (2024)
