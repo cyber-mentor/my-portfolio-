@@ -147,6 +147,8 @@ Steps:
 5. Retrieve employees in Finance or Sales.
 6. Retrieve all employees not in IT.
 
+   <a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%208/project%20Eight.pdf" target="_blank">View Project Eight PDF</a>
+
 #project Nine
 
 Project Description:
