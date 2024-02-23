@@ -129,6 +129,7 @@ Steps:
 3. Removed write access for "other" on a specific file.
 4. Adjusted permissions for a hidden file, granting read access to the group and removing write access for the user and group.
 5. Restricted directory permissions to allow access only for the researcher2 user.
+
 <a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%207/project%20seven.pdf" target="_blank">View Project Seven PDF</a>
 
 #project Eight
