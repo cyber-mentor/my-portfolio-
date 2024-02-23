@@ -18,7 +18,7 @@ Steps:
 7. Collaborated to implement controls.
 8. Monitored control effectiveness.
 
-<a href="projects/project%201/project%20one.pdf">View Project Code - Project One</a>
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%201/project%20one.pdf">View PDF</a>
 
 
 # project two
