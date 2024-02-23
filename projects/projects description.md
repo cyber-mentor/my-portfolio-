@@ -18,7 +18,7 @@ Steps:
 7. Collaborated to implement controls.
 8. Monitored control effectiveness.
 
-[View Project Code - Project One](projects/project 1/project one.pdf)
+<a href="projects/project 1/project one.pdf">View Project Code - Project One</a>
 
 # project two
 
