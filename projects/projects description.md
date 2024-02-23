@@ -113,6 +113,8 @@ Steps:
 4. Isolated affected systems, restored critical services, and analyzed network logs.
 5. Implemented preventive measures such as blocking external ICMP flood attacks and prioritizing service restoration during recovery.
 
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%206/project%20six.pdf" target="_blank">View Project Six PDF</a>
+
 #project Seven
 
 Project Description:
