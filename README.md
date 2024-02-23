@@ -3,7 +3,7 @@
 ## About Me
 I am a dedicated Cyber Analyst with a strong passion for leveraging Python task automation, Linux operating systems, and SQL to enhance security and streamline processes. With a proven track record in analyzing and mitigating cyber threats, as well as a Bachelor's Degree in Software Engineering and almost 7 years of experience in the IT field, I am committed to staying up-to-date with the latest industry trends and technologies.
 ## Projects
-[Project List](#project-description) to view the project description.
+[View the Projects](projects/projects%20description.md)
 
 ## Skills
 
