@@ -48,7 +48,7 @@ certificate list click here =>
 ## Education
 - Bachelor's Degree in Software engineering,Gollis University  (2024)
 
-##Experiences
+## Experiences
 
 - Software Engineer at MegTools
   - Developed and maintained software solutions primarily using Python
