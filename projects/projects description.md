@@ -37,6 +37,7 @@ Steps:
 5. Explored causes like Denial of Service attack or DNS misconfiguration.
 6. Provided recommendations for remediation and website access restoration.
 
+ <a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%202/project%20two.pdf">View Project Two PDF</a>
 
 #project three
 
