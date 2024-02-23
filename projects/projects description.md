@@ -169,6 +169,8 @@ Steps:
 5. Strengthened network security with a robust firewall.
 6. Installed and maintained up-to-date antivirus software.
 
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%209/project%20nine.pdf" target="_blank">View Project Nine PDF</a>
+
 #project Ten
 
 Project Description:
