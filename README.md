@@ -43,7 +43,11 @@ I am a dedicated Cyber Analyst with a strong passion for leveraging Python task 
   - Collaboration in team environment
 
 ## Certifications
-certificate list click here =>
+
+
+
+## resume
+
 
 ## Education
 - Bachelor's Degree in Software engineering,Gollis University  (2024)
