@@ -194,7 +194,7 @@ Steps:
 5. Recover: Implement strategies to restore normal operations and minimize downtime.
 6. Prevent: Utilize vulnerability scanning, firewall, antivirus software, and insights from Wireshark and tcpdump for future incident prevention.
 
-   
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%2010/project%20ten.pdf" target="_blank">View Project Ten PDF</a>
 
 #project  Eleven
 
