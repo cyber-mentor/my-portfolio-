@@ -94,6 +94,8 @@ Steps:
 4. Proposed strong password policies for increased security.
 5. Advised regular firewall maintenance for ongoing protection.
 
+<a href="https://github.com/cyber-mentor/my-portfolio-/blob/main/projects/project%205/project%20five.pdf" target="_blank">View Project Five PDF</a>
+
 #project six
 
 Project Description:
